@@ -11,7 +11,4 @@ I am currently working on a coding app that leverages Large Language Models (LLM
 
 ### Interests
 🧠 Deep Learning - 🤖 Artificial Intelligence - 🔍 Image/Object Detection - 🌐 Augmented Reality - 📱 Integrating AI with daily gadgets
-<!---
-xSaherx/xSaherx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
