@@ -12,5 +12,3 @@ I am currently working on a coding app that leverages Large Language Models (LLM
 ### Interests
 🧠 Deep Learning - 🤖 Artificial Intelligence - 🔍 Image/Object Detection - 🌐 Augmented Reality - 📱 Integrating AI with daily gadgets
 
-### LinkedIn
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
